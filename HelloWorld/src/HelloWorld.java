@@ -11,6 +11,7 @@ public class HelloWorld {
 		CountNum cn = new CountNum();
 		cn.Count(10);
 		System.out.println("I can already count num to 10!");
+		System.out.println("I have grown to 10 years old now.");
 	}
 
 }
