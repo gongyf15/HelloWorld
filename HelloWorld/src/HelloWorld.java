@@ -12,6 +12,7 @@ public class HelloWorld {
 		cn.Count(10);
 		System.out.println("I can already count num to 10!");
 		System.out.println("I have grown to 10 years old now.");
+		System.out.println("I like eating meat and fishes.");
 	}
 
 }
