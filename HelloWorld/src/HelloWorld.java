@@ -14,8 +14,8 @@ public class HelloWorld {
 		System.out.println("I can already count num to 10!");
 		System.out.println("I have grown to 10 years old now.");
 		System.out.println("I like eating meat and fishes.");
-		
 		System.out.println("I hate eating vegetables.");
+		System.out.println("I have many friends.");
 	}
 
 }
