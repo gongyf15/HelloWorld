@@ -10,6 +10,7 @@ public class HelloWorld {
 		System.out.println("I'm a new born boy!");
 		CountNum cn = new CountNum();
 		cn.Count(10);
+		// Simple Introuction of the little boy
 		System.out.println("I can already count num to 10!");
 		System.out.println("I have grown to 10 years old now.");
 		System.out.println("I like eating meat and fishes.");
