@@ -18,6 +18,7 @@ public class HelloWorld {
 		System.out.println("I have many friends.");
 		
 		System.out.println("Today is a nice day");
+		System.out.println("But I fell so boring~");
 	}
 
 }
