@@ -16,6 +16,8 @@ public class HelloWorld {
 		System.out.println("I like eating meat and fishes.");
 		System.out.println("I hate eating vegetables.");
 		System.out.println("I have many friends.");
+		
+		System.out.println("Today is a nice day");
 	}
 
 }
